@@ -13,6 +13,8 @@ public class MainClass {
 		System.out.println("WelCome In Class");
 		
 		MainClass a=new MainClass();
+		a.m1();
+		a.m2();
 	}
 
 }
