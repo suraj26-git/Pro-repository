@@ -9,6 +9,9 @@ public class MainClass {
 	public void m2() {
 		System.out.println("this is m2()");
 	}
+	public void m3() {
+		System.out.println("this is m3()");
+	}
 	public static void main(String[] args) {
 		System.out.println("WelCome In Class");
 		
